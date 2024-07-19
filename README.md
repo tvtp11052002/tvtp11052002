@@ -4,16 +4,20 @@ I am a student majoring in Data Science and Artificial Intelligence at Hue Unive
 
 
 ## Experience
+- 2024 (now) RegentAI Solutions: Inter in RegentAI Solutions (updating...)
 
-- 2021 Virelic Mobile App: Mobile Developer Part-time - Designing mobile app interface (Dart, Flutter) - Developing tasks related to data processing (Python)
-
-- 2021 Science and Technology Innovation Contest: Designing smart lighting system in Hue - Developing IOT systems on the basis of Firebase and Thingspeak
+- 2024 BrycenVietNam: Inter in AI R&D - Reasearching and Development for OCR (2 months) 
 
 - 2022 3S Hue Intersoft: Intern in designing website operating systems - Designing a job search website system for students (2 months)
 
+- 2021 Science and Technology Innovation Contest: Designing smart lighting system in Hue - Developing IOT systems on the basis of Firebase and Thingspeak
+
+- 2021 Virelic Mobile App: Mobile Developer Part-time - Designing mobile app interface (Dart, Flutter) - Developing tasks related to data processing (Python)
+
+
 ## Skills
 
-**Programing:** Dart, Javascript, Python
+**Programing:** Python, Dart, Javascript, 
 
 **Front-end:** Flutter, Bootstrap, TailwindCSS
 
