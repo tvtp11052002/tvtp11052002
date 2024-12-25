@@ -6,7 +6,7 @@ I am a student majoring in Data Science and Artificial Intelligence at Hue Unive
 ## Experience
 - 2024 (now) RegentAI Solutions: Inter in RegentAI Solutions (updating...)
 
-- 2024 BrycenVietNam: Inter in AI R&D - Reasearching and Development for OCR (2 months) 
+- 2024 BrycenVietNam: Intern in AI R&D - Reasearching and Development for OCR (2 months) 
 
 - 2022 3S Hue Intersoft: Intern in designing website operating systems - Designing a job search website system for students (2 months)
 
