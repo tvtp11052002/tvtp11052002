@@ -4,11 +4,12 @@ I am a student majoring in Data Science and Artificial Intelligence at Hue Unive
 
 
 ## Experience
-- 2024 (now) RegentAI Solutions: Intern in RegentAI Solutions (updating...)
+- 2024-2025 RegentAI Solutions:
+    + 2024: Intern at RegentAI Solutions
+    + 2025: Backend Python/AWS
+- 2024 BrycenVietNam: Intern at AI R&D - Reasearching and Development for OCR (2 months) 
 
-- 2024 BrycenVietNam: Intern in AI R&D - Reasearching and Development for OCR (2 months) 
-
-- 2022 3S Hue Intersoft: Intern in designing website operating systems - Designing a job search website system for students (2 months)
+- 2022 3S Hue Intersoft: Intern at designing website operating systems - Designing a job search website system for students (2 months)
 
 - 2021 Science and Technology Innovation Contest: Designing smart lighting system in Hue - Developing IOT systems on the basis of Firebase and Thingspeak
 
