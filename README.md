@@ -4,9 +4,10 @@ I am a student majoring in Data Science and Artificial Intelligence at Hue Unive
 
 
 ## Experience
-- 2024-2025 RegentAI Solutions:
-    + 2024: Intern at RegentAI Solutions
+- 2024-2025 RegentAI Solutions: Transitioned to Backend-AI development using Python and AWS, where I developed and enhanced the DayCent model to simulate carbon, nitrogen, and nutrient cycles - Developed APIs to collect soil and weather data, supporting GHG calculations - Further developed the DayCent Client, enhancing model functionality and gaining hands-on experience with various AWS services
     + 2025: Backend Python/AWS
+    + 2024: Intern at RegentAI Solutions
+    
 - 2024 BrycenVietNam: Intern at AI R&D - Reasearching and Development for OCR (2 months) 
 
 - 2022 3S Hue Intersoft: Intern at designing website operating systems - Designing a job search website system for students (2 months)
