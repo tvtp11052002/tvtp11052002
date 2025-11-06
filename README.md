@@ -1,6 +1,6 @@
 # Tran Van Tuan Phong - Developer
 
-I am a student majoring in Data Science and Artificial Intelligence at Hue University and gained practical experience at a local software company as a Web Developer. My ability to swiftly absorb and assimilate new information, coupled with a high adaptability to different environments, has been evident throughout my academic and professional journey. Furthermore, I am actively working on enhancing my skills in web programming for future endeavors.
+I hold a degree in Data Science and Artificial Intelligence, with real-world experience in web development. I excel at quickly acquiring new knowledge and adapting to various working environments. I am continuing to build my expertise in modern web technologies to pursue long-term growth in the IT field.
 
 
 ## Experience
