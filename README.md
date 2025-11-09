@@ -5,7 +5,7 @@ I hold a degree in Data Science and Artificial Intelligence, with real-world exp
 
 ## Experience
 - 2024-2025 RegentAI Solutions: Transitioned to Backend-AI development using Python and AWS, where I developed and enhanced the DayCent model to simulate carbon, nitrogen, and nutrient cycles - Developed APIs to collect soil and weather data, supporting GHG calculations - Further developed the DayCent Client, enhancing model functionality and gaining hands-on experience with various AWS services
-    + 2025: Backend Python/AWS
+    + 2025: Backend/AI Developer
     + 2024: Intern at RegentAI Solutions
     
 - 2024 BrycenVietNam: Intern at AI R&D - Reasearching and Development for OCR (2 months) 
@@ -15,18 +15,3 @@ I hold a degree in Data Science and Artificial Intelligence, with real-world exp
 - 2021 Science and Technology Innovation Contest: Designing smart lighting system in Hue - Developing IOT systems on the basis of Firebase and Thingspeak
 
 - 2021 Virelic Mobile App: Mobile Developer Part-time - Designing mobile app interface (Dart, Flutter) - Developing tasks related to data processing (Python)
-
-
-## Skills
-
-**Programing:** Python, Dart, Javascript, 
-
-**Front-end:** Flutter, Bootstrap, TailwindCSS
-
-**Database:** SQL(MySQL), NoSQL (MongoDB)
-
-**Design:** Adobe Photoshop, Canva, Figma
-
-<br/>  
-
-
