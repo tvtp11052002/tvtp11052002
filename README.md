@@ -1,125 +1,56 @@
-# 👋 Hi, I'm Tran Van Tuan Phong
+# Hi there, I'm Tran Van Tuan Phong 👋
+### AI & Backend Engineer
 
-🎓 Data Science & Artificial Intelligence Graduate  
-💻 Backend Developer | AI Engineer | Optimization Enthusiast  
-🌏 Passionate about building intelligent systems that solve real-world problems
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-I specialize in backend development, artificial intelligence, and production optimization systems. With experience spanning environmental modeling, OCR research, web development, and manufacturing planning solutions, I enjoy creating scalable software that combines AI, cloud technologies, and operational intelligence.
-
----
-
-## 🚀 Professional Experience
-
-### 🏭 V-KNIC Co., Ltd. | Software Developer
-**2026 – Present**
-
-Developing **Advanced Planning and Scheduling (APS)** solutions integrated with ERP/MES systems.
-
-#### Key Responsibilities
-- Production planning and scheduling optimization
-- Constraint-based manufacturing scheduling
-- Intelligent decision support systems
-- Data integration with ERP/MES platforms
-- Optimization algorithms for industrial operations
-
-#### Technologies
-`Python` `Optimization` `Scheduling Algorithms` `ERP/MES` `Decision Support Systems`
+I hold a degree in Data Science and Artificial Intelligence. My focus is on building intelligent, scalable software systems that combine **Artificial Intelligence**, **Optimization**, and **Backend Architectures** to solve real-world business problems. Fast learner, adaptable, and tech-driven.
 
 ---
 
-### 🌱 RegentAI Solutions | Backend/AI Developer
-**2024 – 2026**
+## 🛠️ Tech Stack & Tools
 
-- **Backend/AI Developer (2025 – 2026)**
-- **AI Intern (2024)**
-
-Worked on environmental and agricultural AI solutions using Python and AWS.
-
-#### Major Contributions
-- Enhanced the **DayCent** model for simulating carbon, nitrogen, and nutrient cycles
-- Built APIs to collect soil and weather data
-- Supported greenhouse gas (GHG) emission calculations
-- Extended the DayCent Client with new functionalities
-- Applied AWS services in real-world production systems
-
-#### Technologies
-`Python` `FastAPI` `AWS` `Machine Learning` `Environmental Modeling`
+| Category | Technologies |
+| :--- | :--- |
+| **Backend & AI** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| **Specialties** | Optimization (APS) • OCR • IoT (ThingSpeak) • GHG Modeling (DayCent) |
 
 ---
 
-### 🔍 Brycen Vietnam | AI R&D Intern
-**2024 (2 months)**
+## 💼 Work Experience
 
-- Conducted research and development in **Optical Character Recognition (OCR)**
-- Investigated image preprocessing and text extraction techniques
+#### **🚀 Backend / AI Engineer @ V-KNIC Co., Ltd.**
+> **2026 – Present**
+> * Developing Advanced Planning and Scheduling (APS) solutions for ERP/MES systems.
+> * Focusing on production optimization, scheduling, and intelligent decision support for manufacturing.
 
-#### Technologies
-`Python` `OCR` `Computer Vision`
+#### **🌱 Backend / AI Engineer @ RegentAI Solutions**
+> **2024 – 2026** *(Promoted from Intern)*
+> * Developed and enhanced the DayCent model for carbon, nitrogen, and nutrient cycle simulation using Python & AWS.
+> * Built APIs for soil/weather data collection for greenhouse gas (GHG) calculations.
 
----
+#### **🔍 AI R&D Intern @ Brycen Vietnam**
+> **2024 (2 months)**
+> * Conducted R&D in Optical Character Recognition (OCR).
 
-### 🌐 3S Hue Intersoft | Web Development Intern
-**2022 (2 months)**
-
-- Designed and developed a student job-search website system
-
-#### Technologies
-`PHP` `MySQL` `HTML/CSS` `JavaScript`
-
----
-
-### 💡 Science and Technology Innovation Contest
-**2021**
-
-Designed a **Smart Lighting System** for Hue City.
-
-#### Highlights
-- Developed IoT solutions using Firebase and ThingSpeak
-- Built automated monitoring and control functionality
-
-#### Technologies
-`Python` `Firebase` `ThingSpeak` `IoT`
+#### **🌐 Web Development Intern @ 3S Hue Intersoft**
+> **2022 (2 months)**
+> * Designed and developed a job search platform for students.
 
 ---
 
-### 📱 Virelic Mobile App | Part-time Mobile Developer
-**2021**
+## 💡 Key Projects & Achievements
 
-- Designed mobile application interfaces using Flutter
-- Implemented data processing modules in Python
-
-#### Technologies
-`Flutter` `Dart` `Python`
+* **Smart Lighting System (IoT)** | *Science and Technology Innovation Contest (2021)*
+  * Built IoT solutions based on Firebase and ThingSpeak for a smart lighting system in Hue.
+* **Virelic Mobile App** | *Part-time Mobile Developer (2021)*
+  * Designed UI using Flutter (Dart) and implemented data processing pipelines with Python.
 
 ---
 
-## 🛠️ Core Skills
-
-### Programming Languages
-`Python` `JavaScript` `Dart` `PHP` `SQL`
-
-### Backend & Cloud
-`FastAPI` `REST API` `AWS` `Docker`
-
-### Artificial Intelligence
-`Machine Learning` `OCR` `Computer Vision`
-
-### Optimization & Operations Research
-`Production Scheduling` `APS` `Constraint Optimization`
-
-### Databases
-`PostgreSQL` `MySQL`
-
----
-
-## 🎯 Career Objective
-
-My goal is to become a highly skilled software engineer specializing in **AI-driven optimization systems**, building solutions that improve decision-making, manufacturing efficiency, and sustainability.
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: *(add your LinkedIn link here)*
-- 📧 Email: *(add your email here)*
-- 🌐 Portfolio: *(add your portfolio link here)*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
