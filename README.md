@@ -1,4 +1,4 @@
-# Tran Van Tuan Phong - Developer
+# Tran Van Tuan Phong - AI Engineer
 
 I hold a degree in Data Science and Artificial Intelligence, with hands-on experience in AI, backend development, and web technologies. I am a fast learner who adapts quickly to new environments and technologies. My career focus is on building intelligent software systems that combine artificial intelligence, optimization, and scalable backend architectures to solve real-world business problems.
 
