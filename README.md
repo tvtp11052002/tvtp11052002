@@ -49,8 +49,3 @@ I hold a degree in Data Science and Artificial Intelligence. My focus is on buil
 * **Virelic Mobile App** | *Part-time Mobile Developer (2021)*
   * Designed UI using Flutter (Dart) and implemented data processing pipelines with Python.
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tvtp11052002&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
