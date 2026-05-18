@@ -1,17 +1,30 @@
 # Tran Van Tuan Phong - Developer
 
-I hold a degree in Data Science and Artificial Intelligence, with real-world experience in web development. I excel at quickly acquiring new knowledge and adapting to various working environments. I am continuing to build my expertise in modern web technologies to pursue long-term growth in the IT field.
-
+I hold a degree in Data Science and Artificial Intelligence, with hands-on experience in AI, backend development, and web technologies. I am a fast learner who adapts quickly to new environments and technologies. My career focus is on building intelligent software systems that combine artificial intelligence, optimization, and scalable backend architectures to solve real-world business problems.
 
 ## Experience
-- 2024-2025 RegentAI Solutions: Transitioned to Backend-AI development using Python and AWS, where I developed and enhanced the DayCent model to simulate carbon, nitrogen, and nutrient cycles - Developed APIs to collect soil and weather data, supporting GHG calculations - Further developed the DayCent Client, enhancing model functionality and gaining hands-on experience with various AWS services
-    + 2025: Backend/AI Developer
-    + 2024: Intern at RegentAI Solutions
-    
-- 2024 BrycenVietNam: Intern at AI R&D - Reasearching and Development for OCR (2 months) 
 
-- 2022 3S Hue Intersoft: Intern at designing website operating systems - Designing a job search website system for students (2 months)
+- **2026 – Present | V-KNIC Co., Ltd.**  
+  **Backend/AI Engineer**  
+  Developing Advanced Planning and Scheduling (APS) solutions for ERP/MES systems, with a focus on production optimization, scheduling, and intelligent decision support for manufacturing operations.
 
-- 2021 Science and Technology Innovation Contest: Designing smart lighting system in Hue - Developing IOT systems on the basis of Firebase and Thingspeak
+- **2024 – 2026 | RegentAI Solutions**  
+  **Backend/AI Engineer (2025 – 2026)**  
+  **Intern (2024)**  
+  Transitioned from intern to Backend/AI Developer, working with Python and AWS to develop and enhance the DayCent model for simulating carbon, nitrogen, and nutrient cycles. Built APIs to collect soil and weather data for greenhouse gas (GHG) calculations and further developed the DayCent Client while gaining extensive hands-on experience with AWS services.
 
-- 2021 Virelic Mobile App: Mobile Developer Part-time - Designing mobile app interface (Dart, Flutter) - Developing tasks related to data processing (Python)
+- **2024 | Brycen Vietnam**  
+  **AI R&D Intern (2 months)**  
+  Conducted research and development in Optical Character Recognition (OCR).
+
+- **2022 | 3S Hue Intersoft**  
+  **Web Development Intern (2 months)**  
+  Designed and developed a job search website system for students.
+
+- **2021 | Science and Technology Innovation Contest**  
+  **Project Developer**  
+  Designed a smart lighting system in Hue, developing IoT solutions based on Firebase and ThingSpeak.
+
+- **2021 | Virelic Mobile App**  
+  **Part-time Mobile Developer**  
+  Designed mobile application interfaces using Flutter (Dart) and implemented data processing tasks using Python.
